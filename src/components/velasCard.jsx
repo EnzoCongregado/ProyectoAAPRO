@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { AiFillHeart, AiOutlineHeart } from "react-icons/ai";
-import './VelasCard.css';
+import './velasCard.css';
 
 export const VelasCard = ({ title, description, precio, image, favoritos }) => {
   const ImageUrl = image || "https://placehold.co/400";
