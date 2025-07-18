@@ -1,0 +1,15 @@
+.velas-Container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.velas-Container h2 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #000000;
+}
