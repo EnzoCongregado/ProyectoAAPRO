@@ -1,4 +1,4 @@
-import './VelasList.css';
+import './velasList.css';
 import { VelasCard } from './velasCard';
 
 export const VelasList = ({ titulo, velas }) => {
