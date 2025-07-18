@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import VelasMoldeData from './data/velasMoldeData';
 import VelasEnvaseData from './data/velasEnvaseData';
 import DifusoresData from './data/difusoresData';
-import { VelasList } from './components/VelasList';
+import { VelasList } from './components/velasList';
 import { AddProyecto } from './components/proyectosAdd';
 import { ProyectoList } from './components/proyectoList';
 import './App.css';
